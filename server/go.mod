@@ -1,4 +1,4 @@
-module test
+module github.com/cairos9000/go_service
 
 go 1.17
 
